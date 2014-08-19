@@ -1,6 +1,8 @@
 
 # logo
 
+![](https://cloudup.com/cP0VdxQuNJ5)
+
 Easily include the Duo logo on your site without editing any images. This component is built on the [`logo/logo`](https://github.com/logo/logo) base.
 
 ## Usage
