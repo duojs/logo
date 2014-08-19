@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="658px" height="211px" viewBox="0 0 658 211" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <circle id="circle" fill="#000000" sketch:type="MSShapeGroup" cx="553" cy="105" r="105"></circle>
+        <polygon id="triangle" fill="#000000" sketch:type="MSShapeGroup" transform="translate(338.000000, 76.000000) rotate(-180.000000) translate(-338.000000, -76.000000) " points="338 -59 454.91343 143.5 221.08657 143.5 "></polygon>
+        <rect id="square" fill="#000000" sketch:type="MSShapeGroup" x="0" y="8" width="200" height="200"></rect>
+    </g>
+</svg>

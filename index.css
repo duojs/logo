@@ -1,0 +1,23 @@
+
+@import 'logo/logo';
+
+/**
+ * Duo logo.
+ */
+
+.logo[data-logo="Duo"] {
+  width: 3.118483412322275em;
+}
+
+.logo[data-logo="Duo"] > * {
+  background-image: url(images/logo.svg);
+  margin: 0 0 0 0;
+}
+
+.logo[data-logo="Duo"][data-color="black"] > * {
+  background-image: url(images/logo-black.svg);
+}
+
+.logo[data-logo="Duo"][data-color="white"] > * {
+  background-image: url(images/logo-white.svg);
+}

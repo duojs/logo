@@ -1,0 +1,11 @@
+{
+  "logo": "Duo",
+  "name": "duo",
+  "repository": "duojs/logo",
+  "description": "The Duo logo.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
