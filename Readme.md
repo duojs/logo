@@ -3,7 +3,7 @@
 
 ![](https://i.cloudup.com/IT4xpyRqz0.png)
 
-Easily include the Duo logo on your site without editing any images. This component is built on the [`logo/logo`](https://github.com/logo/logo) base.
+The Duo logo packaged as a component, so you can easily include the Duo logo on your website without editing any images yourself. It is infinitely scalable with SVG. This component is built on the [`logo/logo`](https://github.com/logo/logo) base.
 
 ## Usage
 
@@ -20,6 +20,8 @@ The tags themselves aren't important. Say it was in the header of your site:
   <h1>Duo</h1>
 </a>
 ```
+
+Then to change the size of the logo, just change the `font-size` on the `.logo` element.
 
 ## License
 
